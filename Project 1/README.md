@@ -5,20 +5,20 @@
 
 ## Visual Demonstration
 
-<table>
-  <tr>
-    <th>Change Width</th>
-    <th>Change Height</th>
-    <th>Change Smoothness</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="33.33%"></td>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="33.33%"></td>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="33.33%"></td>
-  </tr>
-</table>
-
-
+<div style="overflow-x: auto;">
+  <table>
+    <tr>
+      <th style="min-width: 200px; text-align: center">Change Width</th>
+      <th style="min-width: 200px; text-align: center">Change Height</th>
+      <th style="min-width: 200px; text-align: center">Change Smoothness</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="200"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="200"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="200"></td>
+    </tr>
+  </table>
+</div>
 
 ## Shader Implementation
 
