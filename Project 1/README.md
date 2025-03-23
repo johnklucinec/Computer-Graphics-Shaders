@@ -5,9 +5,18 @@
 
 ## Visual Demonstration
 
-| Change Width‎‎‎‎‎ | Change Height‎‎‎‎ | Change Smoothness |
-|---------|---------|---------|
-| <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="100%"> |
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <th style="width:33.33%;">Change Width</th>
+    <th style="width:33.33%;">Change Height</th>
+    <th style="width:33.33%;">Change Smoothness</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="200"></td>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="200"></td>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="200"></td>
+  </tr>
+</table>
 
 
 ## Shader Implementation
