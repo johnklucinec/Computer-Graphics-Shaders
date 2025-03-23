@@ -1,14 +1,20 @@
 # Project 1 - Step and Blended-edged Elliptical Dots
 
+> [!IMPORTANT]
+> Please refer to the [glman](./glman) directory if you would like to try out the shaders.
+
 ## Visual Demonstration
 
-![Shader Demo Image](./images/width.gif)
+![Shader Demo Image](https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true)
+
 *Change the width of the ovals*
 
-![Shader Demo Image](./images/height.gif)
+![Shader Demo Image](https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true)
+
 *Change the height of the ovals*
 
-![Shader Demo Image](./images/blur.gif)
+![Shader Demo Image](https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true)
+
 *Change the smoothness (blur) of the ovals*
 
 ## Shader Implementation
@@ -27,4 +33,5 @@ changing each value affects the output.
 ## Video Demonstration
 
 [![Video Demo](https://img.youtube.com/vi/QmyBkErh0g0/0.jpg)](https://www.youtube.com/watch?v=QmyBkErh0g0)
+
 *Click the image above to watch the demonstration video*
