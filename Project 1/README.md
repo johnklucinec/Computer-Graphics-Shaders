@@ -7,7 +7,7 @@
 
 | Change Width | Change Height | Change Smoothness |
 |---------|---------|---------|
-| <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="100%"> |
+| <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" height="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" height="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" height="100%"> |
 
 
 ## Shader Implementation
