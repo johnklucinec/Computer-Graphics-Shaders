@@ -5,20 +5,10 @@
 
 ## Visual Demonstration
 
-<p align="center">
-  <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="75%" height="75%">
-  <i>Change the width of the ovals</i>
-</p>
+| Change Width | Change Height | Change Smoothness |
+|---------|---------|---------|
+| <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="100%"> | <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="100%"> |
 
-<p align="center">
-  <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="75%" height="75%">
-  <i>Change the height of the ovals</i>
-</p>
-
-<p align="center">
-  <img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="75%" height="75%">
-  <i>Change the smoothness (blur) of the ovals</i>
-</p>
 
 ## Shader Implementation
 
@@ -35,9 +25,6 @@ changing each value affects the output.
 
 ## Video Demonstration
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=QmyBkErh0g0">
-    <img src="https://img.youtube.com/vi/QmyBkErh0g0/0.jpg" alt="Video Demo">
-  </a>
-  <i>Click the image above to watch the demonstration video</i>
-</p>
+[![Video Demo](https://img.youtube.com/vi/QmyBkErh0g0/0.jpg)](https://www.youtube.com/watch?v=QmyBkErh0g0)
+
+*Click the image above to watch the demonstration video*
