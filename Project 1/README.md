@@ -5,7 +5,7 @@
 
 ## Visual Demonstration
 
-<div style="overflow-x: auto; margin: 0 auto; display: table;">
+<div align="center" style="overflow-x: auto;">
   <table>
     <tr>
       <th style="min-width: 250px; text-align: center">Change Width</th>
@@ -35,15 +35,12 @@ changing each value affects the output.
 
 ## Video Demonstration
 
-<div style="overflow-x: auto; margin: 0 auto; display: table;">
+<div align="center" style="overflow-x: auto;">
   <table>
-    <tr>
-      <th style="min-width: 250px; text-align: center">Video Demo</th>
-    </tr>
     <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=QmyBkErh0g0">
-          <img src="https://img.youtube.com/vi/QmyBkErh0g0/0.jpg" width="250" alt="Video Demo">
+          <img src="https://img.youtube.com/vi/QmyBkErh0g0/0.jpg" width="450" alt="Video Demo">
         </a>
       </td>
     </tr>
