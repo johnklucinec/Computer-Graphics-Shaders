@@ -1,7 +1,7 @@
 # Project 1 - Step and Blended-edged Elliptical Dots
 
 > [!IMPORTANT]
-> Please refer to the [glman](./glman) directory if you would like to try out the shaders.
+> Please refer to the [glman](.././glman) directory if you would like to try out the shaders.
 
 ## Visual Demonstration
 
