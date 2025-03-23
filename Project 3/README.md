@@ -13,8 +13,8 @@
       <th style="min-width: 250px; text-align: center">Change Roughness</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/freq2.gif?raw=true" width="250"></td>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/noise.gif?raw=true" width="250"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/freq2.gif?raw=true" width="250"></td>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/amp2.gif?raw=true" width="250"></td>
     </tr>
   </table>
