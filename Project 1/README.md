@@ -22,7 +22,7 @@
 
 ## Shader Implementation
 
-This shader creates an elliptical pattern on a sphere, allowing for dynamic adjustments to the ellipse's size, elongation, and edge smoothness through uniform variables like uAd, uBd, and uTol, and applies per-fragment lighting calculations to render the pattern with ambient, diffuse, and specular components
+This shader creates an elliptical pattern on a sphere, allowing for dynamic adjustments to the ellipse's size, elongation, and edge smoothness through uniform variables like uAd, uBd, and uTol.
 
 ### Implementation Process
 
