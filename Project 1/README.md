@@ -5,18 +5,19 @@
 
 ## Visual Demonstration
 
-<table style="width:100%; table-layout: fixed;">
+<table>
   <tr>
-    <th style="width:33.33%;">Change Width</th>
-    <th style="width:33.33%;">Change Height</th>
-    <th style="width:33.33%;">Change Smoothness</th>
+    <th>Change Width</th>
+    <th>Change Height</th>
+    <th>Change Smoothness</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="200"></td>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="200"></td>
-    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="200"></td>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="33.33%"></td>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="33.33%"></td>
+    <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="33.33%"></td>
   </tr>
 </table>
+
 
 
 ## Shader Implementation
