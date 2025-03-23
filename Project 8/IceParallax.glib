@@ -1,0 +1,24 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 2  0 0 0  0 1 0
+
+Texture2D 6 color_map.bmp
+Texture2D 7 packed_map.bmp
+Texture2D 8 normal_map.bmp
+
+Vertex		IceParallax.vert
+Fragment	IceParallax.frag
+Program		IceParallax			\
+    uColor_Map 6                \
+    uPacked_Map 7               \
+    uNormal_Map 8               \
+    uKa <0.1 0.5 0.5>			\
+    uKd <0.1 0.35 1.0>			\
+    uKs <0.1 0.30 1.0>			\
+    uShininess <1.0 30.0 50.0>	\
+    uRoughness <0 2 4>          \
+    uCrackness <0 1 1>          \
+    uHeightScale <0.01 1 10.0>  \
+
+QuadXY -5. 5. 10 10

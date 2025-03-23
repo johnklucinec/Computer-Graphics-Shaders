@@ -1,0 +1,22 @@
+##OpenGL GLIB
+
+LookAt  50 0 0  0 0 0  0 1 0
+Perspective 70
+Noise3D 128
+
+
+Vertex   oval.vert
+Fragment oval.frag
+Program  OvalNoise				\
+    uKa <0.1 0.1 0.5>			\
+    uKd <0.1 0.6 1.0>			\
+    uKs <0.1 0.3 1.0>			\
+    uShininess <1.0 10.0 25.0>	\
+	uAd <0.001 0.25 0.5>		\
+	uBd <0.001 0.25 0.5>		\
+	uTol <0.0 0.0 1.0>			\
+	uNoiseAmp <0. 0. 1.>		\
+	uNoiseFreq <1. 1. 5.>
+
+Obj wheatly.obj
+//Sphere 1.0 50 50

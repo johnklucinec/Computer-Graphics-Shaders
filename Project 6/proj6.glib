@@ -1,0 +1,19 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 2  0 0 0  0 1 0
+
+Texture2D  6  fire.bmp
+
+Vertex		snake.vert
+Fragment	snake.frag
+Program		FireSnake			\
+    uFireIntensity <0.1 0.6 1.0>    \
+    uNoiseScale <0.5 2.0 8.0>       \
+    uScrollSpeed <0.1 0.9 5.0>      \
+    uAlphaCutoff <0.0 1.0 2.0>      \
+    uNoiseThreshold <0.0 0.0 1.0>   \
+
+
+Scale 0.2
+Obj  FireSnake.obj
