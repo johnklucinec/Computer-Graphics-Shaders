@@ -1,9 +1,8 @@
 ##OpenGL GLIB
 
-LookAt  50 0 0  0 0 0  0 1 0
+LookAt  2.5 0 0  0 0 0  0 1 0
 Perspective 70
-Noise3D 128
-
+Noise3D 128 // Max is 400
 
 Vertex   oval.vert
 Fragment oval.frag
@@ -18,5 +17,5 @@ Program  OvalNoise				\
 	uNoiseAmp <0. 0. 1.>		\
 	uNoiseFreq <1. 1. 5.>
 
-Obj wheatly.obj
-//Sphere 1.0 50 50
+//Obj wheatly.obj // Uncomment this line to use Wheatley :)
+Sphere 1.0 50 50

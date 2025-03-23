@@ -6,7 +6,7 @@ uniform float	uAd, uBd; 		// Elipsis width and height variables
 uniform float	uTol;			// Tolorance (blur) variable
 
 // variables to adjust how much the noise mixes in with the ellipse color
-uniform float	uNoiseFreq, uNoiseAmp; 
+uniform float	uNoiseFreq, uNoiseAmp;
 uniform sampler3D Noise3;
 
 // interpolated from the vertex shader:
@@ -33,7 +33,7 @@ main( )
 	n *= uNoiseAmp;
 
 	// Make the spheres start circular with default values
-	//float uAd = uAd / 2;
+	float uAd = uAd / 2;
 
 	// Calulates the horizontal and vertical radius for each ellipse
 	float ar = uAd / 2.0;
