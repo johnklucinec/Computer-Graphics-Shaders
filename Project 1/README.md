@@ -5,17 +5,17 @@
 
 ## Visual Demonstration
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; margin: 0 auto; display: table;">
   <table>
     <tr>
-      <th style="min-width: 200px; text-align: center">Change Width</th>
-      <th style="min-width: 200px; text-align: center">Change Height</th>
-      <th style="min-width: 200px; text-align: center">Change Smoothness</th>
+      <th style="min-width: 250px; text-align: center">Change Width</th>
+      <th style="min-width: 250px; text-align: center">Change Height</th>
+      <th style="min-width: 250px; text-align: center">Change Smoothness</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="200"></td>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="200"></td>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="200"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/width.gif?raw=true" width="250"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/height.gif?raw=true" width="250"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/blur.gif?raw=true" width="250"></td>
     </tr>
   </table>
 </div>
@@ -35,6 +35,20 @@ changing each value affects the output.
 
 ## Video Demonstration
 
-[![Video Demo](https://img.youtube.com/vi/QmyBkErh0g0/0.jpg)](https://www.youtube.com/watch?v=QmyBkErh0g0)
-
-*Click the image above to watch the demonstration video*
+<div style="overflow-x: auto; margin: 0 auto; display: table;">
+  <table>
+    <tr>
+      <th style="min-width: 250px; text-align: center">Video Demo</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=QmyBkErh0g0">
+          <img src="https://img.youtube.com/vi/QmyBkErh0g0/0.jpg" width="250" alt="Video Demo">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><i>Click the image above to watch the demonstration video</i></td>
+    </tr>
+  </table>
+</div>
