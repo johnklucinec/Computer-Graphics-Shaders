@@ -3,7 +3,6 @@
 Perspective 90
 LookAt 0 0 2  0 0 0  0 1 0
 
-
 Vertex   oval.vert
 Fragment oval.frag
 Program  Oval					\
@@ -11,8 +10,8 @@ Program  Oval					\
     uKd <0.1 0.6 1.0>			\
     uKs <0.1 0.3 1.0>			\
     uShininess <1.0 10.0 25.0>	\
-	uAd <0.001 0.20 0.5>			\
-	uBd <0.001 0.20 0.5>			\
+	uAd <0.001 0.20 0.5>		\
+	uBd <0.001 0.20 0.5>		\
 	uTol <0.0 0.0 1.0>			\
 
 Sphere 1 25 25
