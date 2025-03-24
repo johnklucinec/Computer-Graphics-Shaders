@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/roughness.gif?raw=true" width="350"></td>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/crackness.gif?raw=true" width="350"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/cracks.gif?raw=true" width="350"></td>
     </tr>
   </table>
 </div>
