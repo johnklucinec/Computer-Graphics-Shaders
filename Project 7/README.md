@@ -11,12 +11,21 @@
       <th style="min-width: 250px; text-align: center">LOD</th>
       <th style="min-width: 250px; text-align: center">Quantization</th>
       <th style="min-width: 250px; text-align: center">Cross Size</th>
-      <th style="min-width: 250px; text-align: center">Chroma Depth</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/LOD.gif?raw=true" width="250"></td>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/quant.gif?raw=true" width="250"></td>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/size.gif?raw=true" width="250"></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="overflow-x: auto;">
+  <table>
+    <tr>
+      <th style="min-width: 250px; text-align: center">Chroma Depth</th>
+    </tr>
+    <tr>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/rainbow.gif?raw=true" width="250"></td>
     </tr>
   </table>
