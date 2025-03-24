@@ -15,7 +15,7 @@
     <tr>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/zoom.gif?raw=true" width="250"></td>
       <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/twirl.gif?raw=true" width="250"></td>
-      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/zoom.gif?raw=true" width="250"></td>
+      <td align="center"><img src="https://github.com/johnklucinec/Computer-Graphics-Shaders/blob/main/.images/pixel.gif?raw=true" width="250"></td>
     </tr>
   </table>
 </div>
