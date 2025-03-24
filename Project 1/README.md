@@ -45,7 +45,7 @@ changing each value affects the output.
       </td>
     </tr>
     <tr>
-      <td align="center"><i>Click the image above to watch the demonstration video</i></td>
+      <td align="center"><i>Click the image above to watch the demonstration video </i></td>
     </tr>
   </table>
 </div>
